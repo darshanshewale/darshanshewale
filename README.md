@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshanshewale" alt="darshanshewale" /></a> </p>
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Angular JS**
 
-- 💬 Ask me about **C++ , Frontend**
+- 💬 Ask me about **C++ , Servicenow **
 
 - 📫 How to reach me **darshanshewale1@gmail.com**
 
